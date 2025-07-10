@@ -2,7 +2,7 @@
 ### *Небо принадлежит Кивотосу*
 ![](https://img.picui.cn/free/2025/06/29/68612cccc666b.jpg)
 
-```
+```cpp
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
